@@ -15,7 +15,7 @@
 	"rm -rf src"
 	
 #### 5. Clone this repository in its place
-	"git clone git@github.com:Sean-Mangan/wasm-taint-attempt.git"
+	"git clone git@github.com:Sean-Mangan/wasm-taint-attempt.git src"
 	
 #### 6. Navigate to main node folder
 	"cd ../.."
